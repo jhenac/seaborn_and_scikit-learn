@@ -1,2 +1,2 @@
 # seaborn_and_scikit-learn
-Visualization and linear regression.
+Analysis and visualization of movie revenues in relation to their budget.
